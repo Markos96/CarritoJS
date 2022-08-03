@@ -13,4 +13,4 @@ Se realiza el diseño de un carrito de compras, usando Javascript Vanilla, HTML 
 - Eliminar items cargados en el carrito.
 - Calcular el total del carrito.
 
-![enter image description here](https://img1.freepng.es/20180809/rok/kisspng-javascript-and-jquery-interactive-front-end-web-d--5b6cfa25cf8a30.0077362015338685818501.jpg)
+![enter image description here](https://www.azulschool.net/wp-content/uploads/2020/05/HTML-CSS-y-JavaScript-el-est%C3%A1ndar-universal.png)
